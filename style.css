@@ -1,0 +1,58 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.container > div{
+    width: 320px;
+    height: 85vh;
+    border: 1px solid #cf2d73;
+    
+}
+img{
+    width: 320px;
+    height: 220px;
+    border-bottom: 7px solid #cf2d73;
+    
+}
+
+button{
+    padding: 17px;
+    font-weight: bold;
+    font-size: 15px;
+    border: 1px solid #cf2d73;
+    background-color: #cf2d73;
+    color: white;
+    border: none;
+    margin-left: 95px;
+}
+.div3,.div4{
+    position: absolute;
+    top: 210px;
+    color: #ffff;
+    margin-left: 80px;
+    font-size: 18px;
+
+}
+.div4{
+    margin-left: 60px;
+}
+.div5{
+    margin-top: 28px;
+    margin-left: 70px;
+    margin-bottom: 40px;
+   
+}
+p{
+    margin-bottom: 25px;
+    font-size: 18px;
+    text-align: center;
+    text-indent: 30px;
+    padding: 7px;
+}
